@@ -1,0 +1,2 @@
+#需要修改 C:\Windows\System32\drivers\etc\hosts 文件映射主机名
+192.168.127.129 master
