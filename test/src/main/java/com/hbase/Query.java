@@ -1,11 +1,4 @@
-/** 
- * @ClassName:     Query.java 
- * @author         Kang 273030282@qq.com 
- * @version        V1.0  
- * @Date           2016-10-26 上午10:52:50 
- * @Description:   TODO 
- * 
- */
+
 
 package com.hbase;
   
